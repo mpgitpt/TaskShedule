@@ -1,0 +1,12 @@
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\bin\Debug\TaskShedule.exe.config
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\bin\Debug\TaskShedule.exe
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\bin\Debug\TaskShedule.pdb
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\obj\Debug\TaskShedule.Service1.resources
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\obj\Debug\TaskShedule.csproj.GenerateResource.Cache
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\obj\Debug\TaskShedule.exe
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\obj\Debug\TaskShedule.pdb
+c:\users\grbra\documents\visual studio 2015\Projects\TaskShedule\TaskShedule\obj\Debug\TaskShedule.ProjectInstaller.resources
+C:\Users\grbra\Documents\Visual Studio 2015\Projects\TaskShedule\TaskShedule\obj\Debug\TaskShedule.csprojResolveAssemblyReference.cache
+C:\Users\grbra\Documents\GitHubVisualStudio\TaskShedule\TaskShedule\bin\Debug\TaskShedule.exe.config
+C:\Users\grbra\Documents\GitHubVisualStudio\TaskShedule\TaskShedule\obj\Debug\TaskShedule.exe
+C:\Users\grbra\Documents\GitHubVisualStudio\TaskShedule\TaskShedule\obj\Debug\TaskShedule.pdb
